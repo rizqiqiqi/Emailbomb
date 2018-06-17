@@ -14,27 +14,10 @@ This is harder for spam filters to detect since each email would be coming from 
 
 ### Download&&install
 
-### git clone https://github.com/ha-mrx/Emailbomb
+### git clone https://github.com/rizqiqiqi/Emailbomb.git
 
 ### cd Emailbomb
 
 ### chmod +x Emailbomb.py
 
 ### python Emailbomb.py
-
-
-### ScreenShot
-
-
-![capture](https://user-images.githubusercontent.com/33704360/37691983-d512ab62-2cc6-11e8-933e-475418fdb33e.PNG)
-
-
-
-### YouTube Channel
-
-https://www.youtube.com/c/HA-MRX
-
-
-### Video Tutorial 
-
-https://www.youtube.com/watch?v=DMMKorCqSmg&t=6s
